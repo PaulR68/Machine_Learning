@@ -37,3 +37,4 @@ Feature importance analysis revealed that the model correctly prioritized profes
 * `Part1.py`: Contains the `DataPreprocessor` class and the full ETL pipeline for cleaning and merging datasets.
 * `Part2.ipynb`: Exploratory data analysis, model comparison, and hyperparameter tuning (GridSearchCV).
 * `Part3.ipynb`: Loads the pre-trained pipeline and generates the final predictions (`predictions.csv`) on the test set.
+* `Report_ML`: Showcase the final report, including a developed explanation of each step of the project
